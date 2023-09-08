@@ -139,7 +139,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center ">
                 {/* eslint-disable-next-line */}
-                <a href='https://bespoke-samsom-worldapp.netlify.app' target="_blank">
+                <a href='https://samsonworldapp.netlify.app' target="_blank">
                 
                   <button
                     className="text-center rounded-lg px-4 py-3 m-2
