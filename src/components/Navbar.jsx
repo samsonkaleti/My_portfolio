@@ -60,7 +60,7 @@ const Navbar = () => {
 
             {/*Mobile Menu Items */}
 
-            <ul className={!nav ? 'hidden' : "absolute top-0  text-white h-screen bg-transparent w-full left-0 flex  flex-col justify-center items-center md:hidden"}>
+            <ul className={!nav ? 'hidden' : "absolute top-0  text-white h-screen bg-slate-900 w-full left-0 flex  flex-col justify-center items-center md:hidden"}>
                 <li className="py-4 text-4xl cursor-pointer hover:text-red-500 duration-300">
                 <Link onClick={Handelclick} to="home" spy={true} smooth={true} offset={50} duration={700} >
                             Home
