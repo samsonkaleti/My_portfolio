@@ -8,7 +8,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <div className=" ">
+    <div className="">
       <AnimatedCursor
         innerSize={10}
         outerSize={11}

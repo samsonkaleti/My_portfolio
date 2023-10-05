@@ -52,6 +52,7 @@ const Navbar = () => {
                     </li>
                 </ul>
             </div>
+            
             {/* HamBurgasMenu */}
             <div className="z-10  md:hidden " onClick={Handelclick}>
                 {!nav ? <FaBars className="text-white" /> : <FaTimes className="text-white" />}
