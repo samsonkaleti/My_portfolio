@@ -24,17 +24,14 @@ const About = () => {
 
           <div className="">
             <p>
-              \\\ Hi there! I'm an aspiring frontend developer bursting with
-              creativity and a strong desire to make my mark in the world of web
-              design. My journey started with diving into HTML, CSS,
-              JavaScript, and  React, I've since explored projects like React projects,
-              where I brought my frontend skills to life. I'm enthusiastic about
-              creating user-friendly designs that resonate with users and
-              deliver a smooth browsing experience. While my experience might be
-              fresh, my learning curve is steep—I'm constantly upskilling
-              through online courses and tutorials to stay updated with the
-              latest trends. Join me on my journey by checking out my portfolio
-              and watching my growth!"
+              \\\ As a passionate and versatile Full Stack Developer, I specialize in
+          crafting seamless web applications that are both intuitive and
+          scalable. With expertise across the entire development stack — from
+          front-end design to back-end architecture — I bring your ideas to life
+          with clean, efficient code and a keen eye for user experience. Whether
+          building responsive, high-performance websites or architecting robust
+          APIs, I focus on delivering solutions that meet both technical
+          requirements and user needs.
             </p>
           </div>
         </div>

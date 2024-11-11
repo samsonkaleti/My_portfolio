@@ -112,7 +112,7 @@ const Navbar = () => {
                     </li>
 
                     <li className="px-4 flex w-[160px] h-[60px] justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-                        <a className="flex justify-between items-center w-full text-white" href="https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/ccbp_prod/media/resume_generated/samson__2023-07-15-173920.pdf">Resume  <BsFillPersonLinesFill size={"30px"} /></a>
+                        <a className="flex justify-between items-center w-full text-white" href="https://drive.google.com/file/d/1LpeeFtiYfweWKmaMJMfwT2jXq3aLfjB5/view?usp=sharing">Resume  <BsFillPersonLinesFill size={"30px"} /></a>
                     </li>
                 </ul>
 

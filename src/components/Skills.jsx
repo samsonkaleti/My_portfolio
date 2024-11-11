@@ -11,6 +11,7 @@ import BOOTSTRAP from './assets/bootstrap.png'
 import PYTHON from './assets/python.png'
 import SQL from './assets/sql.png'
 import EXPRESS from './assets/express1.png'
+import NEXTJS from './assets/nextjsLogo.png'
 
 const Skills = () => {
   return (
@@ -83,6 +84,11 @@ const Skills = () => {
             <img className='w-20 mx-auto' src={SQL} alt="sql-logo" />
             <p className="py-4">My-SQL</p>
           </div> 
+
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className='w-20 mx-auto' src={NEXTJS} alt="next-logo" />
+            <p className="py-4">NEXT</p>
+          </div>
 
           
 
